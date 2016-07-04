@@ -5,30 +5,30 @@ This repository contains Matlab code that performs dimensionality reduction and 
 
 Contained files:
 
-pca.m
-RandomDataGenerator.m \n
-SGE_AdjustParameterCV.m
-SGE_Assessment.m
-SGE_ClassCentroids.m
-SGE_Classification.m
-SGE_ConfusionMatrix.m
-SGE_CrossDivision.m
-SGE_CrossValidation.m
-SGE_DimReduction.m
-SGE_DivisionIds.m
-SGE_Evaluation.m
-SGE_FindLocalMax.m
-SGE_FindParameters.m
-SGE_FindPlausible.m
-SGE_GramMatrix.m
-SGE_GraphConstruct.m
-SGE_LaplacianEigenanalysis.m
-SGE_Mapping.m
-SGE_Maximin.m
-SGE_MultiSpecCluster.m
-SGE_NearestCentroid.m
-SGE_NearestClusterCentroid.m
-SGE_PatternRecognition.m
-SGE_Projection.m
-SGE_SubclassExtract.m
-SGE_SubclassLabels.m
+pca.m <br/>
+RandomDataGenerator.m <br/>
+SGE_AdjustParameterCV.m <br/>
+SGE_Assessment.m <br/>
+SGE_ClassCentroids.m <br/>
+SGE_Classification.m <br/>
+SGE_ConfusionMatrix.m <br/>
+SGE_CrossDivision.m <br/>
+SGE_CrossValidation.m <br/>
+SGE_DimReduction.m <br/>
+SGE_DivisionIds.m <br/>
+SGE_Evaluation.m <br/>
+SGE_FindLocalMax.m <br/>
+SGE_FindParameters.m <br/>
+SGE_FindPlausible.m <br/>
+SGE_GramMatrix.m <br/>
+SGE_GraphConstruct.m <br/>
+SGE_LaplacianEigenanalysis.m <br/>
+SGE_Mapping.m <br/>
+SGE_Maximin.m <br/>
+SGE_MultiSpecCluster.m <br/>
+SGE_NearestCentroid.m <br/>
+SGE_NearestClusterCentroid.m <br/>
+SGE_PatternRecognition.m <br/>
+SGE_Projection.m <br/>
+SGE_SubclassExtract.m <br/>
+SGE_SubclassLabels.m <br/>
