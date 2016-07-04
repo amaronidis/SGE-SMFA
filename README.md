@@ -6,8 +6,7 @@ This repository contains Matlab code that performs dimensionality reduction and 
 Contained files:
 
 pca.m
-RandomDataGenerator.m
-
+RandomDataGenerator.m \n
 SGE_AdjustParameterCV.m
 SGE_Assessment.m
 SGE_ClassCentroids.m
